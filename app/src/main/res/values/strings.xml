@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App</string>
+    <array name="kota">
+        <item>Jakarta</item>
+        <item>Bali / Denpasar</item>
+        <item>Medan</item>
+        <item>Yogyakarta</item>
+        <item>Surabaya</item>
+        <item>Semarang</item>
+        <item>Solo</item>
+        <item>Bandung</item>
+    </array>
+</resources>
